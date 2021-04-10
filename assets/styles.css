@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 body { font-family: 'Mulish', sans-serif; background-color: #383e56; display: flex; align-items: center; justify-content: center; margin: 0; height: 100%; width: 100%; }
 button { background: none; border: none; cursor: pointer; }
 button:focus { border: none; }
@@ -11,18 +10,4 @@ footer { position: absolute; bottom: 0; color: #bdc3c7; }
 .headerText { margin: 7px; color: #bdc3c7; }
 .svgContainer { height: 50px; width: 50px; fill: #bdc3c7; }
 .socialMediaContainer { display: flex; min-width: 130px; justify-content: space-evenly;  }
-=======
-body { font-family: 'Mulish', sans-serif; background-color: #383e56; display: flex; align-items: center; justify-content: center; margin: 0; height: 100%; width: 100%; }
-button { background: none; border: none; cursor: pointer; }
-button:focus { border: none; }
-footer { position: absolute; bottom: 0; color: #bdc3c7; }
-
-.skipToMainContent { color: #bdc3c7; position: absolute; top: 0; height: 30px; position: absolute; transform: translateY(-100%); transition: transform 0.3s; }
-.skipToMainContent:focus { transform: translateY(0%); }
-.container { display: flex; flex-direction: column; width: 100vw; align-items: center; justify-content: center; }
-.displayPic { border-radius: 50%; max-width: 200px; }
-.headerText { margin: 7px; color: #bdc3c7; }
-.svgContainer { height: 50px; width: 50px; fill: #bdc3c7; }
-.socialMediaContainer { display: flex; min-width: 130px; justify-content: space-evenly;  }
->>>>>>> Stashed changes
 .socialMediaIcon { height: 50px; width: 50px; }
