@@ -5,8 +5,6 @@ My personal website.
 All computer codes are copyrighted by me under the MIT license.
 All images, unless otherwise specified in the following section(s), are copyrighted by me under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license. The simplified and full text of the license can be found here: https://creativecommons.org/licenses/by-nc-nd/4.0/.
 
-## Profile Picture License
-
 ## Google Open Source Font License
 Google open source fonts are part of the SIL Open Font License (OFL).
 The license text can be found here:https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL
