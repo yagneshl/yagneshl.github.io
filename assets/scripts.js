@@ -8,6 +8,6 @@ const addCopyrightText = () => {
     if (copyrightTextNodes.length > 0) {
         const copyrightTextNode = copyrightTextNodes[0];
         const today = new Date();
-        copyrightTextNode.textContent = `\u00A9 ${today.getFullYear()} WeiPing Allen Hsiao`;
+        copyrightTextNode.textContent = `\u00A9 ${today.getFullYear()} Yagnesh Ladumor`;
     }
 }
