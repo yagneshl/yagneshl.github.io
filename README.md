@@ -15,6 +15,7 @@ The license text can be found here:https://scripts.sil.org/cms/scripts/page.php?
 The following listed icons are part of the font awesome domain and subject to the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 * [linkedin](https://fontawesome.com/icons/linkedin?style=brands)
 * [github](https://fontawesome.com/icons/github-square?style=brands)
+* [email] (https://fontawesome.com/icons/envelope-square?style=solid)
 
 The license text can be found here: https://creativecommons.org/licenses/by/4.0
 
