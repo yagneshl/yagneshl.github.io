@@ -17,6 +17,7 @@ The following listed icons are part of the font awesome domain and subject to th
 * [github](https://fontawesome.com/icons/github-square?style=brands)
 * [email](https://fontawesome.com/icons/envelope-square?style=solid)
 * [twitter](https://fontawesome.com/icons/twitter-square?style=brands)
+* [orcid](https://fontawesome.com/v5.15/icons/orcid?style=brands)
 
 The license text can be found here: https://creativecommons.org/licenses/by/4.0
 
