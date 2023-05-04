@@ -1,4 +1,4 @@
-body { font-family: 'Mulish', sans-serif; background-color: #DEA1A1; display: flex; align-items: center; justify-content: center; margin: 0; height: 100%; width: 100%; }
+body { font-family: 'Roboto', sans-serif; background-color: #DEA1A1; display: flex; align-items: center; justify-content: center; margin: 0; height: 100%; width: 100%; }
 button { background: none; border: none; cursor: pointer; }
 button:focus { border: none; }
 footer { position: absolute; bottom: 0; color: #26272B; }
